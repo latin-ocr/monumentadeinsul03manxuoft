@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./monumentadeinsul03manxuoft_0134.png"; bbox 0 0 1978 3303; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 76 464 130 507">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 76 464 130 507">
+     <span class='ocr_line' id='line_1_1' title="bbox 76 464 130 507; baseline -0.093 1"><span class='ocrx_word' id='word_1_1' title='bbox 76 464 130 507; x_wconf 74' lang='lat'>98</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 84 549 885 735">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 84 549 885 735">
+     <span class='ocr_line' id='line_1_2' title="bbox 84 549 686 626; baseline -0.083 1"><span class='ocrx_word' id='word_1_2' title='bbox 84 575 278 626; x_wconf 65' lang='lat' dir='ltr'>Certaine</span> <span class='ocrx_word' id='word_1_3' title='bbox 309 574 425 622; x_wconf 76' lang='lat' dir='ltr'><strong>yeres</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 455 554 529 610; x_wconf 67' lang='lat' dir='ltr'>yeb</span> <span class='ocrx_word' id='word_1_5' title='bbox 562 549 606 586; x_wconf 74' lang='lat' dir='ltr'>&#39;co</span> <span class='ocrx_word' id='word_1_6' title='bbox 640 553 686 580; x_wconf 78' lang='lat' dir='ltr'>eo</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 89 604 794 703; baseline -0.085 -3"><span class='ocrx_word' id='word_1_7' title='bbox 89 662 197 703; x_wconf 65' lang='lat' dir='ltr'><strong>true,</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 216 652 262 689; x_wconf 70' lang='lat'>⁴00</span> <span class='ocrx_word' id='word_1_9' title='bbox 292 642 366 683; x_wconf 65' lang='lat' dir='ltr'>‘ohe</span> <span class='ocrx_word' id='word_1_10' title='bbox 398 627 537 683; x_wconf 67' lang='lat' dir='ltr'><strong>Right</strong></span> <span class='ocrx_word' id='word_1_11' title='bbox 566 604 794 659; x_wconf 74' lang='lat' dir='ltr'>honorable</span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 489 669 885 735; baseline -0.086 5"><span class='ocrx_word' id='word_1_12' title='bbox 489 700 496 707; x_wconf 75' lang='lat'><em>⁰</em></span> <span class='ocrx_word' id='word_1_13' title='bbox 542 694 615 735; x_wconf 58' lang='lat' dir='ltr'>hbe</span> <span class='ocrx_word' id='word_1_14' title='bbox 634 683 730 727; x_wconf 63' lang='lat' dir='ltr'><strong>title</strong></span> <span class='ocrx_word' id='word_1_15' title='bbox 764 674 808 716; x_wconf 80' lang='lat' dir='ltr'>of</span> <span class='ocrx_word' id='word_1_16' title='bbox 835 669 885 709; x_wconf 62' lang='lat' dir='ltr'>th</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./monumentadeinsul03manxuoft_0291.png"; bbox 0 0 1945 3259; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 540 1365 1274 1459">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 540 1365 1274 1459">
+     <span class='ocr_line' id='line_1_1' title="bbox 540 1365 1274 1459; baseline 0 0"><span class='ocrx_word' id='word_1_1' title='bbox 540 1365 1274 1459; x_wconf 76' lang='lat' dir='ltr'><strong>INDICES</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 228 1581 1578 1774">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 228 1581 1578 1774">
+     <span class='ocr_line' id='line_1_2' title="bbox 228 1581 1578 1653; baseline 0 -12"><span class='ocrx_word' id='word_1_2' title='bbox 228 1581 593 1653; x_wconf 85' lang='lat' dir='ltr'><strong>NOMINUM,</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 643 1581 732 1639; x_wconf 89' lang='grc' dir='ltr'><strong>ΕΤ</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 778 1582 1134 1653; x_wconf 79' lang='lat' dir='ltr'><strong>LOCORUM,</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 1184 1583 1273 1641; x_wconf 86' lang='lat' dir='ltr'><strong>ET</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 1324 1583 1578 1642; x_wconf 84' lang='lat' dir='ltr'><strong>RERUM</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 625 1712 1181 1774; baseline 0.005 -4"><span class='ocrx_word' id='word_1_7' title='bbox 625 1712 1181 1774; x_wconf 80' lang='lat' dir='ltr'><strong>PRAECIPUARUM.</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
